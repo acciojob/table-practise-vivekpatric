@@ -2,5 +2,5 @@
 .tb{
 	background:yellow;
 	
-	border-color:solid rgb(0, 0, 0);
+	border:1px solid rgb(0, 0, 0);
 }
