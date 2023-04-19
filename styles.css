@@ -1,5 +1,6 @@
 /*  your css code here. If applicable */
 .tb{
 	background:yellow;
-	border-color:solid black;
+	
+	border-color:rgb(0, 0, 0);
 }
